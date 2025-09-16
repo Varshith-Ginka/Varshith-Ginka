@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Varshith Ginka
+# Hi there 👋, I'm Varshith  
 
 ## 🚀 About Me  
 I'm a passionate developer exploring **web development, problem-solving, and DSA with Java**.  
@@ -7,12 +7,13 @@ I enjoy building projects and solving coding challenges to sharpen my skills.
 ---
 
 ## 🌟 Projects  
+👉 Click on any project name below to view it live:  
 
-- [Compound Interest Calculator](https://varshith-ginka.github.io/Compound_Interest/)  
+- [Calculator](https://varshith-ginka.github.io/calculator/)  
+- [Dice Roller](https://varshith-ginka.github.io/DiceRoller/)  
 - [Stopwatch](https://varshith-ginka.github.io/Stopwatch/)  
 - [Counter App](https://varshith-ginka.github.io/Counter-app/)  
-- [Dice Roller](https://varshith-ginka.github.io/DiceRoller/)  
-- [Calculator](https://varshith-ginka.github.io/calculator/)  
+- [Compound Interest Calculator](https://varshith-ginka.github.io/Compound_Interest/)  
 
 ---
 
