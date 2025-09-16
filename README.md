@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋, I'm Varshith Ginka
 
-<!--
-**Varshith-Ginka/Varshith-Ginka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+I'm a passionate developer exploring **web development, problem-solving, and DSA with Java**.  
+I enjoy building projects and solving coding challenges to sharpen my skills.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Projects  
+
+- [Compound Interest Calculator](https://varshith-ginka.github.io/Compound_Interest/)  
+- [Stopwatch](https://varshith-ginka.github.io/Stopwatch/)  
+- [Counter App](https://varshith-ginka.github.io/Counter-app/)  
+- [Dice Roller](https://varshith-ginka.github.io/DiceRoller/)  
+- [Calculator](https://varshith-ginka.github.io/calculator/)  
+
+---
+
+## 📚 Tech Interests  
+- Web Development (HTML, CSS, JavaScript)  
+- Data Structures & Algorithms in **Java**  
+- Problem Solving & Competitive Programming  
+
+---
+
+## 📫 Connect with Me  
+- GitHub: [Varshith-Ginka](https://github.com/Varshith-Ginka)  
+
+✨ Thanks for visiting my profile!  
