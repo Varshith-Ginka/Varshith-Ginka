@@ -8,6 +8,7 @@ I enjoy building projects and solving coding challenges to sharpen my skills.
 
 ## Projects  
  Click on any project name below to view it live:  
+- [Open LRU Cache Visualizer](https://lru-cache-visualizer-eosin.vercel.app/)
 - [Calculator](https://varshith-ginka.github.io/calculator/)  
 - [Dice Roller](https://varshith-ginka.github.io/DiceRoller/)  
 - [Stopwatch](https://varshith-ginka.github.io/Stopwatch/)  
